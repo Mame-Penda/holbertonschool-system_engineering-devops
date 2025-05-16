@@ -1,4 +1,4 @@
-![Scale up](images/Scale-1.png)
+![Scale up](Scale-1.png)
 Scale Up
 This infrastructure is an evolution of the previous one, designed to enhance scalability, availability, and maintainability by splitting responsibilities and adding redundancy.
 

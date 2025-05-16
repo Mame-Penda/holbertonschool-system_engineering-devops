@@ -1,4 +1,4 @@
-![Diagram of distributed web infrastructure](images/infrastructure.png)
+![Diagram of distributed web infrastructure](infrastructure.png)
 Components of the Infrastructure
 
 1- Load Balancer (HAProxy)
